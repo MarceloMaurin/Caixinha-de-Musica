@@ -18,7 +18,7 @@ char info[40];
 int pinledOutVerde = 13;  // Analog input pin that the potentiometer is attached to
 int pinledInVerde = A2; // Analog output pin that the LED is attached to
 
-int pinledOutButton = A2;  // Analog input pin that the potentiometer is attached to
+int pinledOutButton = A4;  // Analog input pin that the potentiometer is attached to
 int pinledInButton = A3; // Analog output pin that the LED is attached to
 
 int pinSpeak = 4;
